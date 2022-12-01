@@ -1,0 +1,13 @@
+.btn-saya {
+    margin-right: 20ch;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    transition: 0.5px;
+    color: deeppink;
+}
+
+.btn-saya:hover {
+    transform: scale(1.2);
+    
+}
+

@@ -1,0 +1,11 @@
+.card {
+    transition: 1,00;
+    border-right: rgb(200, 10, 100) solid 20px;
+    background: scroll;
+    background-color: hotpink;
+}
+
+.card:hover {
+    transform: rotateX(30deg);
+    background-color: transparent;
+}
